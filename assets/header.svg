@@ -1,0 +1,24 @@
+<!-- 김재헌의 GitHub 프로필을 소개하는 배너 -->
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">JAEHEON KIM · AI Developer</title>
+  <desc id="desc">Building, evaluating, and connecting AI to real applications.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101b36"/><stop offset="1" stop-color="#37265f"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#79e2e3"/><stop offset="1" stop-color="#b6a0ff"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#b8c1ff" stroke-opacity=".07"/></pattern>
+  </defs>
+  <rect width="1200" height="340" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="24" fill="url(#grid)"/>
+  <circle cx="1110" cy="45" r="180" fill="#a693ff" opacity=".06"/>
+  <circle cx="1040" cy="180" r="105" fill="none" stroke="#a693ff" stroke-opacity=".22"/>
+  <circle cx="1040" cy="180" r="68" fill="none" stroke="#79e2e3" stroke-opacity=".28"/>
+  <path d="M955 180h170M1040 95v170" stroke="#b6a0ff" stroke-opacity=".2"/>
+  <g fill="#79e2e3"><circle cx="1040" cy="75" r="6"/><circle cx="1108" cy="180" r="6"/><circle cx="970" cy="258" r="6"/></g>
+  <rect x="62" y="56" width="46" height="4" rx="2" fill="url(#accent)"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="62" y="103" font-size="17" letter-spacing="4" fill="#9ae7e9">AI DEVELOPER</text>
+    <text x="58" y="174" font-size="57" font-weight="700" letter-spacing="1" fill="#f5f5ff">JAEHEON KIM</text>
+    <text x="62" y="219" font-size="21" fill="#d0d3e9">From model experiments to working applications.</text>
+    <text x="62" y="282" font-size="14" letter-spacing="2" fill="#b8b5df">BUILD · EVALUATE · DEPLOY</text>
+  </g>
+</svg>
