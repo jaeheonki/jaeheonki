@@ -18,6 +18,8 @@
   <g font-family="Segoe UI, Arial, sans-serif">
     <text x="62" y="103" font-size="17" letter-spacing="4" fill="#9ae7e9">AI DEVELOPER</text>
     <text x="58" y="174" font-size="57" font-weight="700" letter-spacing="1" fill="#f5f5ff">JAEHEON KIM</text>
+    <rect x="500" y="130" width="196" height="48" rx="24" fill="#79e2e3"/>
+    <text x="598" y="160" font-size="17" font-weight="700" fill="#101b36" text-anchor="middle" font-family="Segoe UI, 'Malgun Gothic', 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif">포트폴리오 열기  →</text>
     <text x="62" y="219" font-size="21" fill="#d0d3e9">From model experiments to working applications.</text>
     <text x="62" y="282" font-size="14" letter-spacing="2" fill="#b8b5df">BUILD · EVALUATE · DEPLOY</text>
   </g>

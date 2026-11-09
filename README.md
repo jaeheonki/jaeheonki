@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="김재헌 · AI 개발자 · 모델 실험에서 서비스 연결까지">
+  <a href="https://jaeheonki.github.io"><img src="assets/header.svg" width="100%" alt="김재헌 · AI 개발자 · 모델 실험에서 서비스 연결까지 · 포트폴리오 열기"></a>
 </p>
 
 <h2 align="center">직접 구현하고 평가하며, AI를 서비스에 연결합니다.</h2>
@@ -24,9 +24,6 @@
 
 프로젝트 소개와 함께 **제가 맡은 역할**, 시연과 결과 자료를 정리했습니다.
 
-<p align="center">
-  <a href="https://jaeheonki.github.io"><img src="assets/portfolio-card.svg" width="640" alt="상세 포트폴리오 열기, jaeheonki.github.io"></a>
-</p>
 <p align="center">
   아래 네 프로젝트의 <b>핵심 결정과 그 이유</b>, 결과 수치의 측정 조건, 트러블슈팅과 한계를<br>
   화면 캡처, 구성도와 함께 한 페이지에 정리했습니다. 지원서 첨부용 <a href="assets/portfolio.pdf">PDF</a>도 있습니다.
