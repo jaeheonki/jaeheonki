@@ -25,7 +25,7 @@
 프로젝트 소개와 함께 **제가 맡은 역할**, 시연과 결과 자료를 정리했습니다.
 
 <p align="center">
-  <a href="https://jaeheonki.github.io"><img src="https://img.shields.io/badge/%EC%83%81%EC%84%B8%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-%EC%9B%B9%ED%8E%98%EC%9D%B4%EC%A7%80%EB%A1%9C%20%EB%B3%B4%EA%B8%B0-144bb7?style=for-the-badge" alt="상세 포트폴리오 웹페이지로 보기"></a>
+  <a href="https://jaeheonki.github.io"><img src="assets/portfolio-card.svg" width="640" alt="상세 포트폴리오 열기, jaeheonki.github.io"></a>
 </p>
 <p align="center">
   아래 네 프로젝트의 <b>핵심 결정과 그 이유</b>, 결과 수치의 측정 조건, 트러블슈팅과 한계를<br>

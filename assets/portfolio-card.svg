@@ -1,0 +1,18 @@
+<!-- 프로필 README에서 포트폴리오 웹페이지로 이어지는 카드형 버튼 -->
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="168" viewBox="0 0 760 168" role="img" aria-labelledby="t d">
+  <title id="t">상세 포트폴리오 열기</title>
+  <desc id="d">jaeheonki.github.io, 네 프로젝트의 핵심 결정, 결과, 트러블슈팅</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101b36"/><stop offset="1" stop-color="#2a2350"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#79e2e3"/><stop offset="1" stop-color="#b6a0ff"/></linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="759" height="167" rx="18" fill="url(#bg)" stroke="#b8c1ff" stroke-opacity=".22"/>
+  <rect x="40" y="38" width="40" height="4" rx="2" fill="url(#accent)"/>
+  <g font-family="Segoe UI, 'Malgun Gothic', 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif">
+    <text x="40" y="84" font-size="30" font-weight="700" fill="#f3f5ff">상세 포트폴리오</text>
+    <text x="40" y="118" font-size="16" fill="#c4cae6">핵심 결정, 결과 수치, 트러블슈팅을 한 페이지에</text>
+    <text x="40" y="142" font-size="14" fill="#8f97bd">매출부스터 · RFPilot · 방울이 · 이게머약</text>
+    <rect x="530" y="60" width="190" height="48" rx="24" fill="#79e2e3"/>
+    <text x="625" y="90" font-size="16" font-weight="700" fill="#101b36" text-anchor="middle">포트폴리오 열기  →</text>
+  </g>
+</svg>
