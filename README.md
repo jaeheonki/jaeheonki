@@ -11,6 +11,7 @@
 </p>
 
 <p align="center">
+  <a href="assets/portfolio.pdf"><b>📄 상세 포트폴리오</b></a> ·
   <a href="https://uj07096.tistory.com/">✍️ 기술 블로그</a> ·
   <a href="mailto:uj07096@gmail.com">✉️ 이메일</a> ·
   <a href="#대표-프로젝트">🚀 대표 프로젝트</a> ·
@@ -22,6 +23,14 @@
 ## 대표 프로젝트
 
 프로젝트 소개와 함께 **제가 맡은 역할**, 시연과 결과 자료를 정리했습니다.
+
+<p align="center">
+  <a href="assets/portfolio.pdf"><img src="https://img.shields.io/badge/%EC%83%81%EC%84%B8%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-PDF%209%EC%AA%BD-144bb7?style=for-the-badge" alt="상세 포트폴리오 PDF 9쪽 열기"></a>
+</p>
+<p align="center">
+  아래 네 프로젝트의 <b>핵심 결정과 그 이유</b>, 결과 수치의 측정 조건, 트러블슈팅과 한계를<br>
+  프로젝트당 2쪽으로 정리했습니다. 화면 캡처와 구성도도 함께 담았습니다.
+</p>
 
 <table>
 <tr>
