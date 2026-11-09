@@ -26,7 +26,7 @@
 
 <p align="center">
   아래 네 프로젝트의 <b>핵심 결정과 그 이유</b>, 결과 수치의 측정 조건, 트러블슈팅과 한계를<br>
-  화면 캡처, 구성도와 함께 <a href="https://jaeheonki.github.io">상세 포트폴리오</a>에 정리했습니다. 지원서 첨부용 <a href="assets/portfolio.pdf">PDF</a>도 있습니다.
+  화면 캡처, 구성도와 함께 <a href="https://jaeheonki.github.io">상세 포트폴리오</a>에 정리했습니다.
 </p>
 
 <table>
