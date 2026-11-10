@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://jaeheonki.github.io"><b>📄 상세 포트폴리오</b></a> ·
   <a href="https://uj07096.tistory.com/">✍️ 기술 블로그</a> ·
-  <a href="mailto:uj07096@gmail.com">✉️ 이메일</a> ·
+  <a href="mailto:uj07096@gmail.com">✉️ uj07096@gmail.com</a> ·
   <a href="#대표-프로젝트">🚀 대표 프로젝트</a> ·
   <a href="#학습과-실험">📚 학습과 실험</a>
 </p>
@@ -146,5 +146,5 @@ KoBERT 기반 텍스트 분류와 Streamlit 화면을 구현한 대학 졸업작
 
 <p align="center">
   <b>모델 선택의 이유부터 결과를 확인한 과정까지 기록합니다.</b><br>
-  <a href="https://uj07096.tistory.com/">Blog</a> · <a href="mailto:uj07096@gmail.com">Contact</a>
+  <a href="https://uj07096.tistory.com/">Blog</a> · <a href="mailto:uj07096@gmail.com">uj07096@gmail.com</a>
 </p>
