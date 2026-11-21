@@ -26,7 +26,7 @@
 
 1~9호선 경주와 역 추첨으로 목적지를 고르고, 두 사람이 사진과 방문 기록을 함께 남깁니다.
 
-`Next.js` `Supabase` `Three.js` `TypeScript` `Vercel`
+`Next.js` `PWA(홈 화면 설치 지원)` `Supabase` `Three.js` `TypeScript` `Vercel`
 
 **담당** · 기획·화면 흐름·기능 우선순위 결정, 카카오 비즈 앱 전환·로그인 설정, 실기기 검증·피드백 반영  
 **AI 활용** · Codex(구현·자동 검증·배포 지원), Claude(화면 검수·수정안 검토)
